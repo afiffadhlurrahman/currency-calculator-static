@@ -1,0 +1,10 @@
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\bin\Debug\ConverterUangStatic.exe.config
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\bin\Debug\ConverterUangStatic.exe
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\bin\Debug\ConverterUangStatic.pdb
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.csprojAssemblyReference.cache
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.Form1.resources
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.Properties.Resources.resources
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.csproj.GenerateResource.cache
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.csproj.CoreCompileInputs.cache
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.exe
+C:\Users\afiff\source\repos\ConverterUangStatic\ConverterUangStatic\obj\Debug\ConverterUangStatic.pdb
